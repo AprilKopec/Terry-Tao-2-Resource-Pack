@@ -1,0 +1,12 @@
+{
+	"void":
+	{
+        "sounds":
+        ["void"]
+	},
+    "phonedialing":
+    {
+        "sounds":
+        ["phonedialing"]
+    }
+}
